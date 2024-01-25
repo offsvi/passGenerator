@@ -7,4 +7,3 @@ senha = [secrets.choice(intens)
          for i in range(15)]
 senha = ''.join(senha)
 print(senha)
-
