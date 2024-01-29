@@ -1,6 +1,6 @@
 import secrets
 import string 
-
+ 
 intens = (string.ascii_letters + string.digits)
 
 senha = [secrets.choice(intens)
