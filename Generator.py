@@ -10,7 +10,7 @@
 
 # Pressionar botão windows
 # Ecrver Bloco de notas 
-# Pressionar Enter
+# Pressionar Enter 
 
 import pyautogui
 import time 
