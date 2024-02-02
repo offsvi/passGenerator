@@ -6,7 +6,7 @@
 # senha = [secrets.choice(intens)
 #          for i in range(15)]
 # senha = ''.join(senha)
-# print(senha) 
+# print(senha)
 
 # Pressionar botão windows
 # Ecrver Bloco de notas 
