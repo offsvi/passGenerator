@@ -7,7 +7,7 @@
 #          for i in range(15)]
 # senha = ''.join(senha)
 # print(senha)
-
+ 
 # Pressionar botão windows
 # Ecrver Bloco de notas 
 # Pressionar Enter
